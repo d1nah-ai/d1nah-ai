@@ -1,7 +1,7 @@
 <img src="github_banner.png" alt="github banner"/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=FF8FC7&duration=4000&lines=HElLLO WORLD!+;+I'm+DINAH;" />
-</h1> 
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=FF8FC7&duration=4000&lines=Hello+World!+;+I'm+DINAH!;" />
+</h1>
 🚀 AI Engineer | Deep Learning & Generative AI Enthusiast
 
 I specialize in Artificial Intelligence with a focus on deep learning and generative AI. I’ve built end-to-end AI projects across computer vision, natural language processing, and robotics from data preprocessing and model training to deployment with Flask and FastAPI.
