@@ -4,7 +4,7 @@
 </h1> 
 🚀 AI Engineer | Deep Learning & Generative AI Enthusiast
 
-I specialize in Artificial Intelligence with a focus on deep learning and generative AI. I’ve built end-to-end AI projects across computer vision, natural language processing, and robotics — from data preprocessing and model training to deployment with Flask and FastAPI.
+I specialize in Artificial Intelligence with a focus on deep learning and generative AI. I’ve built end-to-end AI projects across computer vision, natural language processing, and robotics from data preprocessing and model training to deployment with Flask and FastAPI.
 
 <br>
 
