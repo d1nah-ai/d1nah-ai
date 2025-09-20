@@ -2,9 +2,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi!+👋;+I'm+Dinah;" />
 </h1> 
-An AI senior passionate about building end-to-end AI projects  I am continuously expanding my knowledge to devleope models that make life easier to everyone.
+🚀 AI Engineer | Deep Learning & Generative AI Enthusiast
 
-💬 Ask me about Python, TensorFlow, React...or anything here
+I specialize in Artificial Intelligence with a focus on deep learning and generative AI. I’ve built end-to-end AI projects across computer vision, natural language processing, and robotics — from data preprocessing and model training to deployment with Flask and FastAPI.
 
 <br>
 
