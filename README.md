@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi!+👋;+I'm+Dinah;" />
 </h1> 
-###An AI senior passionate about building end-to-end AI projects  I am continuously expanding my knowledge to devleope models that make life easier to everyone.
+An AI senior passionate about building end-to-end AI projects  I am continuously expanding my knowledge to devleope models that make life easier to everyone.
 
 💬 Ask me about Python, TensorFlow, React...or anything here
 
